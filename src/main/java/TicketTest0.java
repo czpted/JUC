@@ -21,7 +21,7 @@ class MyTicket extends Thread{
 }
 
 
-public class TicketDemo {
+public class TicketDemo0 {
     public static void main(String[] args){
         MyTicket myTicket1 = new MyTicket();
         MyTicket myTicket2 = new MyTicket();
