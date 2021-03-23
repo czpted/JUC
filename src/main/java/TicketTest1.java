@@ -13,7 +13,7 @@
     }
 }
 
-public class TicketTest {
+public class TicketTest1 {
     public static void main(String[] args){
         Ticket ticket = new Ticket();
         Thread thread1 = new Thread(ticket);
