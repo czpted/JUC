@@ -1,5 +1,4 @@
-
-class Ticket implements Runnable{
+ class Ticket implements Runnable{
     int number = 100;
     public void run() {
         while(true){
