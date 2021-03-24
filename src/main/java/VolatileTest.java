@@ -2,7 +2,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @ClassName VolatileTest
- * @Description Volatile可见性特性
+ * @Description Volatile特性 —— 可见性
  * @Author CZPTED
  * @Date 2021/3/24 14:32
  * @Version 1.0
