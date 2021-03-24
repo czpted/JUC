@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
  * @Version 1.0
  **/
 
-class MyVolatileThread{
+class MyVolatileThread1{
     volatile int i = 0;
     public  void  change(){
         this.i = 60;
@@ -17,7 +17,7 @@ class MyVolatileThread{
 
 public class VolatileTest1 {
     public static void main(String[] args){
-        MyVolatileThread myVolatileThread = new MyVolatileThread();
+        MyVolatileThread1 myVolatileThread = new MyVolatileThread1();
 
         new Thread(()->{
             try {
