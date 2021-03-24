@@ -15,7 +15,7 @@ class MyVolatileThread{
     }
 }
 
-public class VolatileTest {
+public class VolatileTest1 {
     public static void main(String[] args){
         MyVolatileThread myVolatileThread = new MyVolatileThread();
 
