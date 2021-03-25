@@ -1,7 +1,7 @@
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
- * @ClassName AtomicReferenceTest
+ * @ClassName AtomicReferenceTest1
  * @Description AtomicReference的使用
  * @Author CZPTED
  * @Date 2021/3/26 0:53
@@ -47,7 +47,7 @@ class User {
 
 }
 
-public class AtomicReferenceTest {
+public class AtomicReferenceTest1 {
 
    public static void main(String[] args){
 
